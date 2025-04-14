@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Surface/Desktop/data-science-project/Youtube-Extension-Comment-Sentiment-analysis/mlruns/0/c33e81afbeca4b908c72c5573f40f3ff/artifacts
+end_time: 1740858493139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c33e81afbeca4b908c72c5573f40f3ff
+run_name: Final Model
+run_uuid: c33e81afbeca4b908c72c5573f40f3ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858430164
+status: 3
+tags: []
+user_id: Surface

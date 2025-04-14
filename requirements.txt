@@ -1,0 +1,19 @@
+numpy
+pandas
+python-dotenv
+scikit_learn
+setuptools
+nltk
+python-dotenv
+matplotlib
+seaborn
+mlflow
+dagshub
+xgboost
+skorch
+fastapi
+uvicorn
+awscli
+wordcloud
+beautifulsoup4
+-e .

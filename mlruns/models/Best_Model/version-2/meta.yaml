@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740858492934
+current_stage: None
+description: null
+last_updated_timestamp: 1740858492934
+name: Best_Model
+run_id: c33e81afbeca4b908c72c5573f40f3ff
+run_link: null
+source: file:///C:/Users/Surface/Desktop/data-science-project/Youtube-Extension-Comment-Sentiment-analysis/mlruns/0/c33e81afbeca4b908c72c5573f40f3ff/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Surface/Desktop/data-science-project/Youtube-Extension-Comment-Sentiment-analysis/mlruns/0/c33e81afbeca4b908c72c5573f40f3ff/artifacts/model
+user_id: null
+version: 2
